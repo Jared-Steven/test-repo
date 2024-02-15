@@ -1,2 +1,2 @@
 # test-repo
-Just For Testing Purposes.
+Just For Testing Purposes
